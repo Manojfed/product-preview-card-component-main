@@ -82,7 +82,6 @@
   }
   .product__content{
     padding:var(--content-padding);
-    border:3px solid aqua;
     display:grid;
     gap: 1rem;
     color: var(--Dark-grayish-blue);
